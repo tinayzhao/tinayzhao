@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋 Hi, I'm Tina Zhao 
 
-<!--
-**tinayzhao/tinayzhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a:
+• Student studying Computer Science at UC Berkeley 🎓
+• Software engineer, interested in a full-stack role working on consumer-facing technology 👩‍💻
 
-Here are some ideas to get you started:
+Over the years, I've:
+• Interned at IBM as a Full Stack Software Developer Intern 🌐
+• Interned at Golden as a Data Science Intern 📈
+• Led two educational projects as a Project Leader for Codeology 💻
+• Created a more accessible club image as Vice President of Food Science and Tech at Cal 📸
+• Taught students as a mentor for UC Berkeley's Data Structures course through Computer Science Mentors 👩‍🏫
+• Taught as an Undergraduate Student Instructor for UC Berkeley's Data Structures course 📖
+• Mentored project leaders as a Project Manager for Codeology 📕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My pronouns are she/her/hers. Feel free to reach out at tinazhao@berkeley.edu. 
