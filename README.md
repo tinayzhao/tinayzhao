@@ -2,6 +2,7 @@
 
 I am a:
 * Student studying Computer Science at UC Berkeley 🎓
+* SWE Intern @ Regenize 🌱
 * Software engineer, interested in a full-stack role working on consumer-facing technology 👩‍💻
 
 Over the years, I've:
