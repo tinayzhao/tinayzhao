@@ -4,12 +4,12 @@ Software engineer, interested in a full-stack role working on consumer-facing te
 </p>
 
 
-### I am a:
+#### I am a:
 * Student studying Computer Science at [UC Berkeley](https://www.berkeley.edu/) 🎓
 * SWE Intern @ [Regenize](https://www.regenize.co.za/) 🌱
 * Summer Cohort Leader for [Rewriting the Code](https://rewritingthecode.org/) ✍️
 
-### Over the years, I've:
+#### Over the years, I've:
 * Interned at [IBM](https://www.ibm.com/cloud) as a Full Stack Software Developer Intern 🌐
 * Interned at [Golden](https://www.goldenvolunteer.com/) as a Data Science Intern 📈
 * Led two educational projects as a Project Leader and mentored project leaders as a Project Manager for [Codeology](https://www.codeology.club/) 💻
