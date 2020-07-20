@@ -1,9 +1,12 @@
-### 👋 Hi, I'm Tina Zhao 
+<div align="center">
+### 👋 Hi, I'm Tina Zhao
+Software engineer, interested in a full-stack role working on consumer-facing technology
+</div>
+
 
 I am a:
 * Student studying Computer Science at [UC Berkeley](https://www.berkeley.edu/) 🎓
 * SWE Intern @ [Regenize](https://www.regenize.co.za/) 🌱
-* Software engineer, interested in a full-stack role working on consumer-facing technology 👩‍💻
 * Summer Cohort Leader for [Rewriting the Code](https://rewritingthecode.org/) ✍️
 
 Over the years, I've:
