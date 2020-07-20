@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hello! I'm Tina.</h3>
 <p align="center">
-  <i>Full-Stack Software Engineer | Interested in Working on Consumer-Facing Tech</i>
+  Full-Stack Software Engineer | Interested in Working on Consumer-Facing Tech
 </p>
 
 
