@@ -1,5 +1,8 @@
 <div align="center">
-### 👋 Hi, I'm Tina Zhao
+# 👋 Hi, I'm Tina Zhao
+</div>
+
+<div align="center">
 Software engineer, interested in a full-stack role working on consumer-facing technology
 </div>
 
