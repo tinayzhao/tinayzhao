@@ -17,4 +17,4 @@
 * Mentored students for UC Berkeley's Data Structures course through [Computer Science Mentors](https://csmentors.berkeley.edu/#/) 👩‍🏫
 * Taught as an Undergraduate Student Instructor for [CS 61B](https://inst.eecs.berkeley.edu/~cs61b/sp20/), UC Berkeley's Data Structures course 📖
 
-My pronouns are she/her/hers. Feel free to reach out at tinazhao@berkeley.edu. 
+My pronouns are she/her/hers. Feel free to reach out at tinazhao(at)berkeley.edu. 
